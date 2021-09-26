@@ -18,6 +18,7 @@ namespace Exam1_Modul
             int e = Convert.ToInt32(Console.ReadLine());
             double f = d + e;
             Console.WriteLine("Вот тебе и результатик: " + f);
+            Console.WriteLine("\nДАЙ МНЕ СЛОВО, ВЕДЬ Я ТАМАДА !");
 
 
 
